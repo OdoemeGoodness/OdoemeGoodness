@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @OdoemeGoodness
-- 👀 I’m interested in Learning Web3
-- 🌱 I’m currently learning Data Analysis on Cousera
+- A software Engineering aspirant 
+- 👀 I’m currently Learning Web3
+- 🌱and also learning Data Analysis on Coursera
 - 💞️ I’m looking to collaborate with experts to know more about Web3 and to access better opportunities in Tech.
 - 📫 How to reach me - Twitter @GOdoeme
 
