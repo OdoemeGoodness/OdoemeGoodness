@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @OdoemeGoodness
-- A software Engineering aspirant 
-- 👀 I’m currently Learning Web3
-- 🌱and also learning Data Analysis on Coursera
-- 💞️ I’m looking to collaborate with experts to know more about Web3 and to access better opportunities in Tech.
-- 📫 How to reach me - Twitter @GOdoeme
+Hi, Goodness here. 
+A web3 developer
+Software Engineering aspirant
+I’m looking to collaborate with experts to develop real-world solutions using blockchain and to access better opportunities in Tech.
+Reach me on Twitter via @GOdoeme
 
 <!---
 OdoemeGoodness/OdoemeGoodness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
