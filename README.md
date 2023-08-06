@@ -1,6 +1,6 @@
 Hi, Goodness here. 
-A web3 developer
-Software Engineering aspirant
+A web3 developer.
+Software Engineering aspirant.
 I’m looking to collaborate with experts to develop real-world solutions using blockchain and to access better opportunities in Tech.
 Reach me on Twitter via @GOdoeme
 
